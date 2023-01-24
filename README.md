@@ -1,6 +1,7 @@
-### wave Hi there, i'm @santi_torri
+### 👋 Hi there, i'm @santi_torri
 ### 🌱 I’m currently learning HTML, CSS, JAVASCRIPT
 ### 🤔 Interested in Web-development
+### 🔭 Doing the Full stack javascript web development course in the Odin Project
 
 <!--
 **SantiagoTorricella/SantiagoTorricella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
