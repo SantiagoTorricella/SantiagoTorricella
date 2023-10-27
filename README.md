@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Santiago Torricella</h1>
-<h3 align="center">(22yo) Electronic engineering student at UNR currently studying front end development. Im from Argentina</h3>
+<h1 align="center">Hi , I'm Santiago Torricella</h1>
+<h3 align="center"> (23yo) Electronic engineering student at UNR currently studying front end development. I'm from Rosario,Santa Fe,Argentina</h3>
 
-- 🌱 I’m currently learning **Front end deveelopment at The odin Project**
+- 🌱 Currently learning Front end deveelopment at **The odin Project**
 
 
 
